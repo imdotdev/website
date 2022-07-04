@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2297],{38520:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/course/[id]/[page_id]",function(){return u(63864)}])}},function(n){n.O(0,[5445,4885,4617,8703,7351,8718,2539,1111,3649,1382,4349,3009,6771,1926,2542,8951,3864,9774,2888,179],(function(){return _=38520,n(n.s=_);var _}));var _=n.O();_N_E=_}]);

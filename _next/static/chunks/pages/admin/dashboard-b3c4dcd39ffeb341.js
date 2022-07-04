@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9189],{23146:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/admin/dashboard",function(){return u(50272)}])}},function(n){n.O(0,[5445,4885,4617,1921,1228,7570,43,8703,7351,8718,2539,1111,3649,9177,615,3009,6771,1926,9840,272,9774,2888,179],(function(){return _=23146,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
